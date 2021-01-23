@@ -1,2 +1,2 @@
 # KSP
-My first program. Rock paper scissorcs in Finnish.
+My first program. Rock paper scissors in Finnish.
